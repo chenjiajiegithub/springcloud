@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservice-cloud-02-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-03-provider-product-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-04-consumer-product-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-ch01" charset="UTF-8" />
+  </component>
+</project>
